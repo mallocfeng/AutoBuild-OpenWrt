@@ -14,7 +14,7 @@ on:
   push:
     branches: 
       - master
-  #V1.0
+
   #schedule:
   #  - cron: 0 8 * * 5
   
